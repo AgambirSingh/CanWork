@@ -3,13 +3,14 @@ import { getAuth, GoogleAuthProvider } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
-};
+  apiKey: "AIzaSyBjUHgstaH8EzY8XUu45wORX4AvVW93LCA",
+  authDomain: "canwork-9b8fc.firebaseapp.com",
+  projectId: "canwork-9b8fc",
+  storageBucket: "canwork-9b8fc.firebasestorage.app",
+  messagingSenderId: "967562672937",
+  appId: "1:967562672937:web:1d33df75bd1cd6e5a8d538",
+  measurementId: "G-EB9MBHEZ54"
+}
 
 const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
