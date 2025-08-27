@@ -1,5 +1,5 @@
-# **CanWork: Your Journey to Employment Success**
-
+# **CanWork: (UI/UX Focused)**
+![Home Page](https://media.licdn.com/dms/image/v2/D4E22AQE2uFcBTiHBeA/feedshare-shrink_2048_1536/B4EZaMcrwbHEAs-/0/1746113052577?e=1759363200&v=beta&t=3qi99-9yTaMV_HSWDxX8DqlPxFEg04dr94Hrepe5ihY)
 ---
 
 ## **Overview**
@@ -11,8 +11,7 @@
 ## **Features**
 
 ### **1. Home Page**
-- A welcoming landing page with the tagline: *"Your Journey to Employment Success."*
-- A prominent **"Get Started"** button that redirects users to explore the app further.
+- A welcoming landing page with the tagline: *"Now you can live your Canadian Theme" catching user direct interest*
 - Clean and responsive design inspired by the Canadian flag's red-and-white theme.
 
 ![Home Page](https://media.licdn.com/dms/image/v2/D4E22AQE2uFcBTiHBeA/feedshare-shrink_2048_1536/B4EZaMcrwbHEAs-/0/1746113052577?e=1759363200&v=beta&t=3qi99-9yTaMV_HSWDxX8DqlPxFEg04dr94Hrepe5ihY)
