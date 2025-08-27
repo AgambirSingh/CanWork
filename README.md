@@ -15,7 +15,7 @@
 - A prominent **"Get Started"** button that redirects users to explore the app further.
 - Clean and responsive design inspired by the Canadian flag's red-and-white theme.
 
-![Home Page](https://pplx-res.cloudinary.com/image/upload/v1740305693/user_uploads/ObbSvTTNshZEIkB/image_2025-02-23_051452233.jpg)
+![Home Page](https://media.licdn.com/dms/image/v2/D4E22AQE2uFcBTiHBeA/feedshare-shrink_2048_1536/B4EZaMcrwbHEAs-/0/1746113052577?e=1759363200&v=beta&t=3qi99-9yTaMV_HSWDxX8DqlPxFEg04dr94Hrepe5ihY)
 
 ---
 
